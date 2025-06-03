@@ -1,0 +1,4 @@
+﻿  CS 210 Module Two Assignment.cpp
+A:\Visual Studio Community\Source\Repos\CS 210 Module Two\CS 210 Module Two\CS 210 Module Two Assignment.cpp(12,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+A:\Visual Studio Community\Source\Repos\CS 210 Module Two\CS 210 Module Two\CS 210 Module Two Assignment.cpp(14,7): warning C4101: 'statement': unreferenced local variable
+  CS 210 Module Two.vcxproj -> A:\Visual Studio Community\Source\Repos\CS 210 Module Two\x64\Debug\CS 210 Module Two.exe
